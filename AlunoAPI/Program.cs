@@ -1,7 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using AlunoAPI.Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
 builder.Services.AddDbContext<AlunoAPIContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AlunoAPIContext") ?? throw new InvalidOperationException("Connection string 'AlunoAPIContext' not found.")));
 

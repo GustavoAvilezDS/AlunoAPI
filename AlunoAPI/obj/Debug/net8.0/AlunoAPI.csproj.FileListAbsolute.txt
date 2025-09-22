@@ -261,3 +261,4 @@ C:\Users\24050\source\repos\AlunoAPI\AlunoAPI\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\24050\source\repos\AlunoAPI\AlunoAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\24050\source\repos\AlunoAPI\AlunoAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\24050\source\repos\AlunoAPI\AlunoAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\24050\source\repos\AlunoAPI\AlunoAPI\obj\Debug\net8.0\AlunoAPI.sourcelink.json
